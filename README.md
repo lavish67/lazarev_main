@@ -4,13 +4,6 @@ A minimalistic, responsive web page featuring a dynamic video header. Built usin
 
 ---
 
-## 📸 Demo
-
-![screenshot](https://github.com/lavish67/lazarev_main/raw/main/screenshot.png)  
-*Note: Replace with an actual screenshot or remove this section.*
-
----
-
 ## 🧰 Tech Stack
 
 - **HTML5** – Semantic markup  
